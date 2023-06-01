@@ -1,0 +1,44 @@
+.js-gaming-button{
+  padding:10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(216, 216, 216);
+}
+
+.is-toggled{
+  background-color: black;
+  color: white;
+}
+
+.gamingButton,
+.musicButton,
+.techButton{
+  padding:10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(216, 216, 216);
+}
+
+.game-switched,
+.tech-switched,
+.music-switched{
+  background-color: black;
+  color: white;
+}
+
+.gamingButton1,
+.musicButton1,
+.techButton1{
+  padding:10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(216, 216, 216);
+}
+
+.switched{
+  background-color: black;
+  color: white;
+}
